@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Andzhur👋
+<hr>
 
+👨‍💻 - Studying Computer Science at Pennsylvania State University, United States.</br>
+🌱 - Currently studying more about Web Development.</br>
+
+
+#### Github Stats:</br>
+![Andzhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=andzhurt&show_icons=true&theme=radical)
 <!--
 **AndzhurT/andzhurT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
